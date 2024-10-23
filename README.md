@@ -10,7 +10,7 @@ ros2 launch realsense2_camera rs_multi_camera_launch.py camera_name1:=my_D435 de
 
 
 
-If you have same type of realsense or already know serial numbers, you can use this command. (using serial number)
+If you have same type of realsense or already know serial numbers, you can use this command.
 
 ```
 ros2 launch realsense2_camera rs_multi_camera_launch.py serial_no1:=_036522070660 serial_no2:=_725112060349
